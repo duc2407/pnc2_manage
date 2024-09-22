@@ -1,0 +1,13 @@
+com.example.core_dashboard.app-jetified-window-java-1.0.0-beta04-0 C:\Users\acer\.gradle\caches\transforms-3\19ff66f031cb422764b0da25d9d6bdb4\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.core_dashboard.app-jetified-annotation-experimental-1.1.0-1 C:\Users\acer\.gradle\caches\transforms-3\55b58230e55ac19e11de59e32a6117b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.core_dashboard.app-core-1.6.0-2 C:\Users\acer\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\res
+com.example.core_dashboard.app-jetified-window-1.0.0-beta04-3 C:\Users\acer\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\res
+com.example.core_dashboard.app-debug-4 D:\appflutter\app\pnc2_management\android\app\src\debug\res
+com.example.core_dashboard.app-main-5 D:\appflutter\app\pnc2_management\android\app\src\main\res
+com.example.core_dashboard.app-pngs-6 D:\appflutter\app\pnc2_management\build\app\generated\res\pngs\debug
+com.example.core_dashboard.app-resValues-7 D:\appflutter\app\pnc2_management\build\app\generated\res\resValues\debug
+com.example.core_dashboard.app-rs-8 D:\appflutter\app\pnc2_management\build\app\generated\res\rs\debug
+com.example.core_dashboard.app-mergeDebugResources-9 D:\appflutter\app\pnc2_management\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.core_dashboard.app-mergeDebugResources-10 D:\appflutter\app\pnc2_management\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.core_dashboard.app-merged_res-11 D:\appflutter\app\pnc2_management\build\app\intermediates\merged_res\debug
+com.example.core_dashboard.app-packaged_res-12 D:\appflutter\app\pnc2_management\build\path_provider_android\intermediates\packaged_res\debug

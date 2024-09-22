@@ -1,0 +1,4 @@
+#Sat Sep 21 20:47:54 ICT 2024
+base.0=D\:\\appflutter\\app\\pnc2_management\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

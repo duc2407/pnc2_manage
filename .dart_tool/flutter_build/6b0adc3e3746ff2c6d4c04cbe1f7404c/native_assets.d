@@ -1,0 +1,1 @@
+ D:\\appflutter\\app\\pnc2_management\\.dart_tool\\flutter_build\\6b0adc3e3746ff2c6d4c04cbe1f7404c\\native_assets.yaml: 

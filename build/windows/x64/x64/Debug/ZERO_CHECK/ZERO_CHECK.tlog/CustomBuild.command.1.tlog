@@ -1,0 +1,10 @@
+^D:\APPFLUTTER\APP\PNC2_MANAGEMENT\BUILD\WINDOWS\X64\CMAKEFILES\B9E1FC50D9887071B2789E60F49AF6D7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/appflutter/app/pnc2_management/windows -BD:/appflutter/app/pnc2_management/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/appflutter/app/pnc2_management/build/windows/x64/core_dashboard.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
